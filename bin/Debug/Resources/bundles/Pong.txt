@@ -1,0 +1,7 @@
+BITMAP,Paddle,paddle.png,75,120,37,1,37
+BITMAP,Ball,ball.png,20,20,1,1,1
+BITMAP,ScoreBoard,scoreboard.png,300,60,1,1,1
+BITMAP,CooldownBar,cooldown.png,100,20,1,1,1
+ANIM,PaddleAnimations,PaddleAnimations.txt
+FONT,GameFont,Minecraft.ttf,15
+FONT,SmallGameFont,MineCraft.ttf,12

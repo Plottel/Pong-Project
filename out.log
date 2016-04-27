@@ -1,0 +1,6 @@
+Free Pascal Compiler version 2.6.4 [2014/03/06] for i386
+Copyright (c) 1993-2014 by Florian Klaempfl and others
+Target OS: Win32 for i386
+Compiling .\src\.\Pong.pas
+Linking .\bin\Debug\pong.exe
+537 lines compiled, 0.9 sec , 222080 bytes code, 45516 bytes data

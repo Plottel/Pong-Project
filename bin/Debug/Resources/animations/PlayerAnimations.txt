@@ -1,0 +1,13 @@
+SwinGame Animation #v1
+
+f: 0, 0, 10, 0
+
+i:Normal,0
+
+f: 1, 1, 10, 2
+f: 2, 2, 10, 3
+f: 3, 3, 10, 4
+f: 4, 4, 10, 5
+f: 5, 5, 10, 3
+
+i: SpeedBoostDown, 1
